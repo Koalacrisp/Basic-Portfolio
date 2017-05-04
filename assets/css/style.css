@@ -92,10 +92,11 @@ textarea {
 	border: solid 1px #cccccc;
 	float: left;
 	padding: 20px 25px 20px 25px;
-	margin-left: 15%;
+	margin-left: 10%;
 	background-color: #ffffff;
 	color: #777777;
 	margin-top: 1%;
+	margin-bottom: 8%;
 }
 
 #portContainer {
@@ -103,11 +104,11 @@ textarea {
 	border: solid 1px #cccccc;
 	float: left;
 	padding: 20px 25px 20px 25px;
-	margin-left: 15%;
+	margin-left: 10%;
 	background-color: #ffffff;
 	color: #777777;
 	margin-top: 1%;
-	margin-bottom: 5%;
+	margin-bottom: 8%;
 }
 
 .aboutMe {
@@ -161,10 +162,11 @@ textarea {
 	width: 270px;
 	border: solid 1px #cccccc;
 	float: right;
-	margin-right: 15%;
+	margin-right: 10%;
 	background-color: #ffffff;
 	padding: 20px 25px 20px 25px;
 	margin-top: 1%;
+	margin-bottom: 8%;
 }
 
 #connect img {
